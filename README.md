@@ -8,12 +8,16 @@ Python:
 - Pandas
 - Matplotlib
 - Numpy
+- 
 Java:
 - Junit
+- 
 JavaScript:
 - React
+- 
 C#:
 - Unity2D and Unity3D
+- 
 SQL:
 
 
