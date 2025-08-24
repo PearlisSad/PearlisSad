@@ -31,5 +31,5 @@ I’m currently learning data analysis and machine learning through DataCamp. I'
 ---
 
 ## Contact Information
-- **LinkedIn:**  [Raphael Magrina](https://www.linkedin.com/in/magrina-raphael)
+- **LinkedIn:**  https://www.linkedin.com/in/magrina-raphael
 - **Email:** magrinaraphael@gmail.com  
