@@ -31,9 +31,5 @@ I’m currently learning data analysis and machine learning through DataCamp. I'
 ---
 
 ## Contact Information
-- **LinkedIn:** [Your LinkedIn](#)  
-- **Email:** your.email@example.com  
-
----
-
-⭐️ *Always curious, always climbing — both in data and on the wall!*  
+- **LinkedIn:**  [Raphael Magrina](https://www.linkedin.com/in/magrina-raphael)
+- **Email:** magrinaraphael@gmail.com  
